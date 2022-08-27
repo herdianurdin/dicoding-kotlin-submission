@@ -1,9 +1,5 @@
-# Proyek Submission MPK 
+# Independent Study 2022: Kotlin Submission
+This repository contains the source code submission of the "Memulai Pemrograman Dengan Kotlin" project.
 
-**Aturan mengerjakan submission**<br>
-Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
-
-- Mengubah kode yang berada di dalam fungsi main()
-- Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
-- Membuat fungsi baru yang bukan merupakan tugas latihan
-- Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
+## Disclaimer ⚠️
+This repository is created for sharing and educational purposes only. Plagiarism is unacceptable and not my responsibility as the author. Please do your submission work honestly.
